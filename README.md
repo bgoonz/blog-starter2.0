@@ -1,6 +1,6 @@
 <div align="center">
 
-# [⇨WEBSITE🗺️⇦](https://bgoonz-blog.netlify.app/)
+# [⇨WEBSITE🗺️⇦](https://bgoonzblog20starter.netlify.app/)
 
 ##### [⇨Privacy policy⇦](https://codepen.io/bgoonz/pen/LYLJZrW)
 
